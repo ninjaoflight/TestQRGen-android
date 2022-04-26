@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Test QR</string>
+    <string name="app_name">QR Generator</string>
+    <string name="main_activity_title">Generate QR Code</string>
+    <string name="main_activity_input_text">Input text</string>
+    <string name="main_activity_generate_qr">Generate QR code</string>
+    <string name="main_activity_image_hint">Generated QR Image</string>
 </resources>
